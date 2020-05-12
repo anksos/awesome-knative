@@ -1,2 +1,2 @@
-# awesome-knative
-A curated list of awesome Knative resources list
+# Awesome Knative
+A curated list of awesome [Knative](https://knative.dev) resources
