@@ -14,14 +14,18 @@ Inspired by [sindresorhus' awesome](https://github.com/sindresorhus/awesome) and
 ## Contributing  
 
 
-## Books  
+## Books / Docs    
 [Knative Docs](https://knative.dev/docs/)  
 [Knative Cookbook](https://www.oreilly.com/library/view/getting-started-with/9781492047025/)  
 [Knative Cookbook - Build Effective Serverless Applications with Kubernetes and Openshift](https://developers.redhat.com/books/knative-cookbook/)  
 [Knative in Action](https://livebook.manning.com/book/knative-in-action/welcome/v-2/)  
+[Knative by Google](https://cloud.google.com/knative/)  
 
 
 ## Articles  
+[Introduction to Knative](https://medium.com/@pczarkowski/introduction-to-knative-b93a0b9aeeef)
+[Knative 1/2](https://medium.com/@pczarkowski/introduction-to-knative-b93a0b9aeeef)  
+[Knative 2/2](https://medium.com/google-cloud/knative-2-2-e542d71d531d)  
 
 
 ## Blogs  
