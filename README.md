@@ -11,17 +11,20 @@ Inspired by [sindresorhus' awesome](https://github.com/sindresorhus/awesome) and
  >- Eventing  
     - Universal subscription, delivery, and management of events. Build modern apps by attaching compute to a data stream with declarative event connectivity and developer-friendly object model. 
 
-## Contributing
+## Contributing  
 
 
 
-## Contents
+## Contents  
 
 
-## Books
+## Books  
+[Knative Docs](https://knative.dev/docs/)  
+[Knative Cookbook](https://www.oreilly.com/library/view/getting-started-with/9781492047025/)  
+[Knative Cookbook - Build Effective Serverless Applications with Kubernetes and Openshift](https://developers.redhat.com/books/knative-cookbook/)    
 
+## Blogs  
 
-## Videos
-
+## Videos  
 
 
