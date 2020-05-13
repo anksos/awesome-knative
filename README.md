@@ -23,7 +23,7 @@ Inspired by [sindresorhus' awesome](https://github.com/sindresorhus/awesome) and
 
 
 ## Articles  
-[Introduction to Knative](https://medium.com/@pczarkowski/introduction-to-knative-b93a0b9aeeef)
+[Introduction to Knative](https://medium.com/@pczarkowski/introduction-to-knative-b93a0b9aeeef)  
 [Knative 1/2](https://medium.com/@pczarkowski/introduction-to-knative-b93a0b9aeeef)  
 [Knative 2/2](https://medium.com/google-cloud/knative-2-2-e542d71d531d)  
 
