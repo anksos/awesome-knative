@@ -14,7 +14,7 @@ Inspired by [sindresorhus' awesome](https://github.com/sindresorhus/awesome) and
 ## Contributing  
 
 
-## Books  
+## Books / Articles  
 [Knative Docs](https://knative.dev/docs/)  
 [Knative Cookbook](https://www.oreilly.com/library/view/getting-started-with/9781492047025/)  
 [Knative Cookbook - Build Effective Serverless Applications with Kubernetes and Openshift](https://developers.redhat.com/books/knative-cookbook/)  
