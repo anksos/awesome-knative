@@ -3,4 +3,25 @@ A curated list of awesome [Knative](https://knative.dev) resources.
 Inspired by [sindresorhus' awesome](https://github.com/sindresorhus/awesome) and [dastergon's awesome-sre](https://github.com/dastergon/awesome-sre/)
 
 #### What is Knative?
-> Knative (pronounced kay-nay-tiv) extends [Kubernetes](https://kubernetes.io/) to provide a set of middleware components that are essential to build modern, source-centric, and container-based applications that can run anywhere: on premises, in the cloud, or even in a third-party data center.
+> Knative (pronounced kay-nay-tiv) extends [Kubernetes](https://kubernetes.io/) to provide a set of middleware components that are essential to build modern, source-centric, and container-based applications that can run anywhere: on premises, in the cloud, or even in a third-party data center.  
+
+#### Knative features:
+ >- Serving  
+    - Run serverless containers on Kubernetes with ease, Knative takes care of the details of networking, autoscaling (even to zero), and revision tracking. You just have to focus on your core logic.
+ >- Eventing  
+    - Universal subscription, delivery, and management of events. Build modern apps by attaching compute to a data stream with declarative event connectivity and developer-friendly object model. 
+
+## Contributing
+
+
+
+## Contents
+
+
+## Books
+
+
+## Videos
+
+
+
