@@ -14,10 +14,6 @@ Inspired by [sindresorhus' awesome](https://github.com/sindresorhus/awesome) and
 ## Contributing  
 
 
-
-## Contents  
-
-
 ## Books  
 [Knative Docs](https://knative.dev/docs/)  
 [Knative Cookbook](https://www.oreilly.com/library/view/getting-started-with/9781492047025/)  
