@@ -37,6 +37,7 @@ Inspired by [sindresorhus' awesome](https://github.com/sindresorhus/awesome) and
 [Stop Calling Knative Serverless](https://www.youtube.com/watch?v=28CqZZFdwBY)  
 [Introducing Knative: Build, Deploy, and Manage Serverless Workloads on Kubernetes](https://www.youtube.com/watch?v=AIDKDLxiCdk)  
 [Everything you want to know about Knative](https://www.youtube.com/watch?v=PSnVGk73CjQ)  
-
+[Knative a Year Later: Serverless, Kubernetes and You](https://www.youtube.com/watch?v=PvuqSTVXSQA)  
+[Serverless with Knative](https://www.youtube.com/watch?v=PvuqSTVXSQA)
 
 
