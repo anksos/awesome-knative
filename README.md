@@ -24,5 +24,9 @@ Inspired by [sindresorhus' awesome](https://github.com/sindresorhus/awesome) and
 ## Blogs  
 
 ## Videos  
+[Inside Knative Serving](https://www.youtube.com/watch?v=-tvQgLbcNtg)  
+[Knative: Scaling from 0 to Infinity](https://www.youtube.com/watch?v=OPSIPr-Cybs)  
+[Stop Calling Knative Serverless](https://www.youtube.com/watch?v=28CqZZFdwBY)  
+
 
 
