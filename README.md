@@ -22,7 +22,7 @@ Inspired by [sindresorhus' awesome](https://github.com/sindresorhus/awesome) and
 
 
 ## Blogs  
-[Knative's blog](https://knative.dev/blog/) - Official Knative Blog
+[Knative's blog](https://knative.dev/blog/) - Official Knative Blog  
 [Developer's  IBM blog for Knative](https://developer.ibm.com/components/knative/blogs/) - Blog posts regarding Knative and Serverless from IBM  
 [OpenShift's blog](https://www.openshift.com/blog/tag/knative) - Blog Posts for Knative from OpenShift
 
