@@ -74,4 +74,6 @@ Inspired by [sindresorhus' awesome](https://github.com/sindresorhus/awesome) and
 
 
 ## Events  
-[Serverless Practicitioners Summit](https://events.linuxfoundation.org/serverless-practitioners-summit/)
+[KubeCon | CloudNativeCon Summit](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
+[Serverless Practicitioners Summit](https://events.linuxfoundation.org/serverless-practitioners-summit/)  
+[Continuous Delivery Summit](https://events.linuxfoundation.org/continuous-delivery-summit/)
