@@ -71,3 +71,7 @@ Inspired by [sindresorhus' awesome](https://github.com/sindresorhus/awesome) and
 [Istio on Knative Lessons Learned: How Istio is Fit for Serverless Platform - Ying Chun Guo](https://www.youtube.com/watch?v=DN7chnOM0g0)  
 [Platforms Demystified: Cloud Foundry, Kubernetes, Eirini, and Knative](https://www.youtube.com/watch?v=p_-vjnB__00)  
 [TGI Kubernetes 044: Knative serverless](https://www.youtube.com/watch?v=n_zqedVM0oM)  
+
+
+## Events  
+[Serverless Practicitioners Summit](https://events.linuxfoundation.org/serverless-practitioners-summit/)
