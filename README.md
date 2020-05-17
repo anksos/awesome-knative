@@ -20,6 +20,8 @@ Inspired by [sindresorhus' awesome](https://github.com/sindresorhus/awesome) and
 [Knative Cookbook - Build Effective Serverless Applications with Kubernetes and Openshift](https://developers.redhat.com/books/knative-cookbook/)  
 [Knative in Action](https://livebook.manning.com/book/knative-in-action/welcome/v-2/)  
 [Knative by Google](https://cloud.google.com/knative/)  
+[Knative Tutorial by Mete Atamel](https://github.com/meteatamel/knative-tutorial)  
+
 
 
 ## Articles  
@@ -77,3 +79,6 @@ Inspired by [sindresorhus' awesome](https://github.com/sindresorhus/awesome) and
 [KubeCon | CloudNativeCon Summit](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)  
 [Serverless Practicitioners Summit](https://events.linuxfoundation.org/serverless-practitioners-summit/)  
 
+## Tools  
+[Knative CLI (kn)](https://github.com/knative/client)  
+[Knative Provider Plugin](https://github.com/serverless/serverless-knative)  
