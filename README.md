@@ -35,6 +35,7 @@ Inspired by [sindresorhus' awesome](https://github.com/sindresorhus/awesome) and
 [Developer's  IBM blog for Knative](https://developer.ibm.com/components/knative/blogs/) - Blog posts regarding Knative and Serverless from IBM.    
 [OpenShift's blog](https://www.openshift.com/blog/tag/knative) - Blog Posts for Knative from OpenShift.  
 [Serverless' blog](https://www.serverless.com/blog/category/guides-and-tutorials/) - Blog posts from Serverless.com not dedicated to Knative.  
+[Running Knative Functions with the Azure Functions Runtime](https://triggermesh.com/2018/11/running-knative-functions-with-the-azure-functions-runtime/)  
 
 
 ## Videos  
