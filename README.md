@@ -47,7 +47,7 @@ Inspired by [sindresorhus' awesome](https://github.com/sindresorhus/awesome) and
 [Knative a Year Later: Serverless, Kubernetes and You](https://www.youtube.com/watch?v=PvuqSTVXSQA)  
 [Serverless with Knative](https://www.youtube.com/watch?v=whDuB7Sc7UQ)
 [Serverless Platform for Large Scale Mini-Apps: From Knative to Production - Yitao Dong & Ke Wang](https://www.youtube.com/watch?v=PA1UoLPf4nE)  
-[Generating Events from Your Internal Systems with Knative](https://www.youtube.com/watch?v=riq0x5xdfNg)  
+[Generating Events from Your Internal Systems with Knative, Ville Aikas, Mark Chmarny](https://www.youtube.com/watch?v=riq0x5xdfNg)  
 [Introducing Knative — SpringOne Platform, 2018](https://www.youtube.com/watch?v=CylT5O6IfkU)  
 [Tutorial: Getting Your Hands Dirty with Knative - Bas Tichelaar & Adé Mochtar, Instruqt](https://www.youtube.com/watch?v=Xi9oYTR710E)  
 [Keynote: Kubernetes and the Path to Serverless - Kelsey Hightower, Staff Developer Advocate, Google](https://www.youtube.com/watch?v=oNa3xK2GFKY)  
