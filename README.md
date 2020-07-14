@@ -12,7 +12,7 @@ Inspired by [sindresorhus' awesome](https://github.com/sindresorhus/awesome) and
     - Universal subscription, delivery, and management of events. Build modern apps by attaching compute to a data stream with declarative event connectivity and developer-friendly object model. 
 
 ## Contributing  
-
+Make sure to take a look the [contribution guidelines](CONTRIBUTING.md) before you submit a request.  
 
 ## Books / Docs    
 [Knative Docs](https://knative.dev/docs/)  
