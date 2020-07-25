@@ -8,7 +8,16 @@ A curated list of awesome [Knative](https://knative.dev) resources.
  >- Serving  
     - Run serverless containers on Kubernetes with ease, Knative takes care of the details of networking, autoscaling (even to zero), and revision tracking. You just have to focus on your core logic.
  >- Eventing  
-    - Universal subscription, delivery, and management of events. Build modern apps by attaching compute to a data stream with declarative event connectivity and developer-friendly object model. 
+    - Universal subscription, delivery, and management of events. Build modern apps by attaching compute to a data stream with declarative event connectivity and developer-friendly object model.  
+    
+## Contents
+- [Contributing](#contributing) 
+- [Books / Docs](#books--docs)
+- [Articles](#articles)
+- [Blogs](#blogs)
+- [Videos](#videos)
+- [Events](#events)
+- [Tools](#tools)
 
 ## Contributing  
 Make sure to take a look the [contribution guidelines](CONTRIBUTING.md) before you submit a request.  
