@@ -90,5 +90,5 @@ Make sure to take a look the [contribution guidelines](CONTRIBUTING.md) before y
 - [Serverless Practicitioners Summit](https://events.linuxfoundation.org/serverless-practitioners-summit/) - Summit about Serverless organized by CNCF
 
 ## Tools  
-- [Knative CLI (kn)](https://github.com/knative/client) - Main Knative CLI repository in Github
-- [Knative Provider Plugin](https://github.com/serverless/serverless-knative) - Main Knative provider plugin repository in Github
+- [Knative CLI (kn)](https://github.com/knative/client) - Main Knative CLI repository in GitHub.
+- [Knative Provider Plugin](https://github.com/serverless/serverless-knative) - Main Knative provider plugin repository in GitHub.
