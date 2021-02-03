@@ -92,3 +92,4 @@ Make sure to take a look the [contribution guidelines](CONTRIBUTING.md) before y
 ## Tools  
 - [Knative CLI (kn)](https://github.com/knative/client) - Main Knative CLI repository in GitHub.
 - [Knative Provider Plugin](https://github.com/serverless/serverless-knative) - Main Knative provider plugin repository in GitHub.
+- [VMware Tanzu Sources for Knative](https://github.com/vmware-tanzu/sources-for-knative) - VMware Tanzu repo for VMware-related event sources compatible with Knative project.
